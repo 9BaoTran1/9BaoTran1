@@ -36,6 +36,13 @@ polling examples.
 
 - Practice repo: https://github.com/9BaoTran1/embedded-c-fundamentals-labs
 
+### C++ Linux Systems Practice
+
+Small C++ practice repository for Linux-style tooling and systems basics:
+argument parsing, config loading, logging, file I/O, and a minimal TCP client.
+
+- Practice repo: https://github.com/9BaoTran1/cpp-linux-systems-practice
+
 ## Current Learning
 
 - STM32 fundamentals
