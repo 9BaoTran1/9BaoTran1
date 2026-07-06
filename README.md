@@ -28,6 +28,14 @@ Arduino Mega 2560, UART communication, and C++ motion-control firmware.
 - Project repo: https://github.com/9BaoTran1/Delta-Robot-EdgeAI
 - Portfolio: https://9baotran1.github.io/firmware-motion-control-portfolio/
 
+### Embedded C Fundamentals Labs
+
+Small practice repository for core firmware interview topics such as bitwise
+operations, ring buffers, UART parsing, finite state machines, and `volatile`
+polling examples.
+
+- Practice repo: https://github.com/9BaoTran1/embedded-c-fundamentals-labs
+
 ## Current Learning
 
 - STM32 fundamentals
