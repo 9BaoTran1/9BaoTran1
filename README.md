@@ -34,6 +34,8 @@ Small practice repository for core firmware interview topics such as bitwise
 operations, ring buffers, UART parsing, finite state machines, and `volatile`
 polling examples.
 
+A host-tested GPIO debounce lab covers noisy input, held buttons, and a 32-bit timer wrapping during a release. The walkthrough includes a sample trace and STM32/FreeRTOS porting notes. [Read the lab and run the tests](https://github.com/9BaoTran1/embedded-c-fundamentals-labs/blob/main/docs/gpio-debounce.md)
+
 - Practice repo: https://github.com/9BaoTran1/embedded-c-fundamentals-labs
 
 ### C++ Linux Systems Practice
